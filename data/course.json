@@ -1,0 +1,41 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "legacy_uid": "44643af0-d4c4-28dc-16d1-55bfaf996a36",
+  "instructors": {
+    "content": [
+      "c664292d-dbe9-aa20-6c7e-01252c3c1158"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "94dc269a-0b07-4e8f-3b4b-15de0b15f4a7",
+    "website": "21g-506-advanced-japanese-ii-spring-2005"
+  },
+  "course_title": "Advanced Japanese II",
+  "course_description": "This course covers Lessons 27 through 30 of _Japanese: The Spoken Language_ by Eleanor H. Jordan with Mari Noda. The goal of the course is to continue expanding grammar and vocabulary by further developing four skills: speaking, listening, reading, and writing. The goal is to acquire the ability to use Japanese appropriately with increasing spontaneity emphasized, and to be prepared to become an independent learner to the point where you are capable of handling authentic Japanese by yourself, without fear or hesitation.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.506",
+  "course_image_thumbnail": {
+    "content": "345cb473-e28d-e61f-e921-3c3601b77e54",
+    "website": "21g-506-advanced-japanese-ii-spring-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "0f465806-e1c1-400c-b6e2-758f6d18c0ee",
+  "site_short_id": "21g.506-spring-2005",
+  "site_url_path": "courses/21g-506-advanced-japanese-ii-spring-2005",
+  "title": "Course Metadata"
+}
