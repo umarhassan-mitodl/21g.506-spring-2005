@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information about the textbooks, course
   objectives, evaluation, daily grades, exams and quizzes, writing assignments and
   attendance policy for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

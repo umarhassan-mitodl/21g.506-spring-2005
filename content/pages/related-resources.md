@@ -2,6 +2,8 @@
 content_type: page
 description: This related resource section lists the external links which are useful
   for course understanding.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,330 +13,331 @@ uid: f8b144cf-54af-9cab-9714-5e3892ebc18e
 Learning Japanese Language
 --------------------------
 
-{{% resource_link "5fa07e5c-7593-47da-bea5-c8ee8068b038" "Shodouka.com: View Japanese websites without having Japanese language support" %}}
+[Shodouka.com: View Japanese websites without having Japanese language support](http://www.shodouka.com/)
 
-{{% resource_link "90164afc-93a5-4048-ae54-d3268ae165bf" "Same as Shodouka, but supports fewer pages" %}}
+[Same as Shodouka, but supports fewer pages](http://nihongo.monash.edu/japanese.html)
 
-{{% resource_link "73a23721-95c5-411f-ae44-1af2cff57a29" "Rikai" %}}
+[Rikai](http://www.rikai.com/perl/HomePage.pl?Language=Ja)
 
-{{% resource_link "ca0a4358-ccad-4ee6-b975-ae7c443d3c6e" "Useful page to help translating Japanese websites!" %}}
+[Useful page to help translating Japanese websites!](http://nihongo.monash.edu/japanese.html
+)
 
-{{% resource_link "e8b0b040-d08a-4add-a71c-ee0069f69f30" "Japanese-English Dictionary Interface" %}}
+[Japanese-English Dictionary Interface](http://poets.notredame.ac.jp/cgi-bin/jedi-inon)
 
-{{% resource_link "a9ecd96c-cd3b-4427-8c42-36befc09db1d" "Takasugi Shinji's Japanese Lessons" %}}
+[Takasugi Shinji's Japanese Lessons](http://www.sf.airnet.ne.jp/~ts/index.html)
 
-{{% resource_link "b90a43a5-8a69-4061-b305-b32787a9b210" "About.com: Japanese Language" %}}
+[About.com: Japanese Language](http://japanese.about.com/)
 
-{{% resource_link "7701379b-27a9-49e5-afe7-43b00fbb058d" "CosCom Online" %}}
+[CosCom Online](http://www.coscom.co.jp/)
 
-{{% resource_link "574197dc-887b-4601-a9d2-9b51d36f0a56" "Japanese for the Western Brain" %}}
+[Japanese for the Western Brain](https://kimallen.sheepdogdesign.net/)
 
-{{% resource_link "33f4b031-7635-4a3e-a369-413703f5b7e9" "Online Kanji Dictionary" %}}
+[Online Kanji Dictionary](http://www.nuthatch.com/kanji/)
 
-{{% resource_link "0966d121-18d9-4e45-a963-f8bca79a807b" "KanjiSite.Com" %}}
+[KanjiSite.Com](http://www.kanjisite.com/index.html)
 
-{{% resource_link "33f4b031-7635-4a3e-a369-413703f5b7e9" "Kiki's Kanji Dictionary" %}}
+[Kiki's Kanji Dictionary](http://www.nuthatch.com/kanji/)
 
-{{% resource_link "6376c5bb-e605-4ccd-ad9b-6ac92b627b0a" "E-Kanji" %}}
+[E-Kanji](http://www.ekanji.com/)
 
-{{% resource_link "b2bb7bcf-aa22-4c2e-9a12-8753d7089ed4" "Slang" %}}
+[Slang](http://www.angelfire.com/anime4/jslang/jibiki.htm)
 
-{{% resource_link "66dcc257-9e7b-4b03-a8aa-a44ac74ab3fb" "Animations on Character Stroke Orders" %}}
+[Animations on Character Stroke Orders](http://targetgamer.com/)
 
 Various Japanese Dialects
 -------------------------
 
-{{% resource_link "b3cbb219-855a-4a50-a3a3-27a6a3588a65" "Kochi" %}}
+[Kochi](http://www.ltn.net/T/Idioma/English/Regional/Asia/Japan/Society_and_Culture/Language/Japanese_Dialects/)
 
-{{% resource_link "c4dc0b93-fdfa-41e7-bfab-067d06c3ab70" "Kyoto" %}}
+[Kyoto](https://www.kyoto-np.co.jp/)
 
-{{% resource_link "dd45b6c9-73e1-446b-b8dd-f477b3dd4e78" "Nagoya" %}}
+[Nagoya](http://mediazone.tcp-net.ad.jp/MISO/EBITENW/NB/)
 
-{{% resource_link "926c6c86-b635-47eb-9ab5-50545a98f5d7" "Nosaka" %}}
+[Nosaka](http://www.kashiwakuma.com/nosaka/dialect-e.htm)
 
-{{% resource_link "41daf125-b9fd-46d0-9892-6c37fdc5f033" "Okinawa" %}}
+[Okinawa](http://en.wikipedia.org/wiki/Okinawa)
 
 Maps of Japan
 -------------
 
-{{% resource_link "6e7ed23f-04ee-4d49-aebd-d155165f295b" "Japan National Tourist Organization" %}}
+[Japan National Tourist Organization](http://www.jnto.go.jp/eng/map/index_map.html)
 
-{{% resource_link "3354c9a8-8b09-4bba-a835-f44e173c3de4" "Japan Information Network" %}}
+[Japan Information Network](http://web-japan.org/region/index.html)
 
-{{% resource_link "0fbb589d-d1b7-4711-9dc5-7aac13f0edb9" "Sunsite" %}}
+[Sunsite](http://www.jnto.go.jp/eng/map/)
 
 Exploring Japanese Culture
 --------------------------
 
-{{% resource_link "12d2679f-279f-418b-8075-edca499193db" "47 Prefectures of Japan" %}}
+[47 Prefectures of Japan](http://www.japan-talk.com/jt/new/prefectures-of-japan)
 
-{{% resource_link "770bf493-f5ad-4b6c-9593-b49e8b46a849" "Explore Japan" %}}
+[Explore Japan](http://www.explorejapan.com/)
 
-{{% resource_link "fba1f4bd-a56d-4713-bb56-b2882deb8cd4" "Library of Congress: Portals to the World - Japan" %}}
+[Library of Congress: Portals to the World - Japan](http://www.loc.gov/rr/international/asian/japan/japan.html)
 
-{{% resource_link "549a5443-bfff-4883-9fe3-4639b93d0bf9" "Japan Information Network" %}}
+[Japan Information Network](http://www.exploring-japan.com/)
 
-{{% resource_link "5febfcc4-32d3-4c24-a097-cf508d0ebb90" "Japan FAQ: Know Before You Go" %}}
+[Japan FAQ: Know Before You Go](http://www.thejapanfaq.com/)
 
-{{% resource_link "fb50cdb9-b366-4806-bc94-f4df6d352807" "Quirky Japan Homepage" %}}
+[Quirky Japan Homepage](http://www.quirkyjapan.or.tv/)
 
-{{% resource_link "ecc4366a-97c8-41f2-b361-319b77cd7422" "Information and Pictures of Japan" %}}
+[Information and Pictures of Japan](http://ikjeld.com/)
 
-{{% resource_link "2990c521-5447-4691-b682-82c687e18421" "Key Aspects of Japan" %}}
+[Key Aspects of Japan](http://web.archive.org/web/20160314071848/http://japanlink.co.jp/ka/index.html)
 
-{{% resource_link "9d8a9da2-d433-43a6-a839-0b64b6e57a11" "TokyoQ: Life in the Megapolis" %}}
+[TokyoQ: Life in the Megapolis](http://tokyoq.com/)
 
-{{% resource_link "1a2130c0-901b-4fe5-a654-8ce94f589f7a" "Mokona's Japan Site" %}}
+[Mokona's Japan Site](http://mokona.land.free.fr/index_eng.htm)
 
-{{% resource_link "0d7952c4-da6a-4c79-87ea-b500f71984e3" "Joseph Wu's Origami Page" %}}
+[Joseph Wu's Origami Page](http://www.origami.as/home.html)
 
-{{% resource_link "b6664fb0-d42f-42a9-81db-e3e8cf04f089" "Origami.com" %}}
+[Origami.com](http://en.origami-club.com/)
 
-{{% resource_link "fee215f9-709e-46ba-bc7b-692afdf37439" "The Art of Butoh Dance" %}}
+[The Art of Butoh Dance](http://butoh.net/)
 
-{{% resource_link "0ad67719-7c3f-41cf-83cb-e8dc34c96211" "Many Links on Japanese Culture" %}}
+[Many Links on Japanese Culture](http://www.sabotenweb.com/bookmarks/culture.html)
 
-{{% resource_link "9066ce36-e539-4488-a9a1-d8953a52644a" "Super Links Page" %}}
+[Super Links Page](http://web.archive.org/web/20070110223704/http://ww2.lafayette.edu/~stocktoj/home/japanl.html)
 
-{{% resource_link "7d6d6c19-9883-462d-be99-39e9b0597b53" "Onsens" %}}
+[Onsens](http://www.asahi-net.or.jp/~ue3t-cb/index_e/spa_e/spalist_e.htm)
 
-{{% resource_link "c21ce1a9-8c33-4dc3-950c-217ae7aa4c86" "Kyoto Prefecture" %}}
+[Kyoto Prefecture](http://www.pref.kyoto.jp/index.html)
 
-{{% resource_link "6ba50bef-7d79-4721-823b-f7ab94a2efcf" "Google Websearch: Prefectures" %}}
+[Google Websearch: Prefectures](https://productforums.google.com/forum/#!category-topic/websearch/finding-stuff-on-google/_9yJrzRf9J8)
 
 Yummy Recipes and Food pages
 ----------------------------
 
-{{% resource_link "1dbdf109-3db3-469a-ab03-321ae3188a4a" "Star Chefs: Nobu Matsuhisa" %}}
+[Star Chefs: Nobu Matsuhisa](http://www.starchefs.com/NMatsuhisa/html/recipe_menu.shtml)
 
-{{% resource_link "e6d55b3c-c5ba-41a3-9f65-67b500cfdaaa" "Osaka and Kanazawa Local Cuisine" %}}
+[Osaka and Kanazawa Local Cuisine](http://www.tsuji.ac.jp/hp/jpn/jp_e/index.html)
 
-{{% resource_link "67b447b7-18cf-44c0-ba65-e124edad5c3e" "RecipeSource" %}}
+[RecipeSource](http://www.recipesource.com/ethnic/asia/japanese/indexall.html)
 
-{{% resource_link "33a0b635-13f7-4dfe-92ac-899f7195aa90" "Bento.com" %}}
+[Bento.com](http://www.bento.com/)
 
-{{% resource_link "4b5e4cc8-8ad1-4c67-8e61-46c94e4f9c8f" "Bob and Angie's Recipes" %}}
+[Bob and Angie's Recipes](http://www.bob-an.com/recipe/English/index_e.html)
 
-{{% resource_link "1119b932-b1e9-471c-9da9-086f5a3da64b" "Amazake" %}}
+[Amazake](http://web.archive.org/web/20140729045803/http://www.grainaissance.com/recipes.html)
 
-{{% resource_link "6cd35f89-0de6-438e-a14b-f50b55cda16d" "Agedashi-dofu" %}}
+[Agedashi-dofu](http://japanesefood.about.com/od/tofu/r/agedashidofu.htm)
 
-{{% resource_link "63ed5c80-a258-4047-9a22-2a9cf1d2c501" "Japanese Kitchen" %}}
+[Japanese Kitchen](http://www.theblackmoon.com/Jfood/food1.html)
 
-{{% resource_link "bc95f18a-d9bc-4f6b-a599-43d99753e180" "Emiko Kaminuma's Cooking Time" %}}
+[Emiko Kaminuma's Cooking Time](http://www.asahi.co.jp/)
 
-{{% resource_link "920a234f-c8e6-427f-b952-01657deb0766" "GlobalGourmet" %}}
+[GlobalGourmet](http://globalgourmet.co.in/)
 
-{{% resource_link "4f9f45e0-875d-48b2-be40-398c9d878e31" "Kaiseki Cuisine" %}}
+[Kaiseki Cuisine](http://www.amacord.com/tea/)
 
-{{% resource_link "132e6d99-8a44-4b8a-9c5e-55742f926309" "Mom's Home Cooking" %}}
+[Mom's Home Cooking](http://www.nsknet.or.jp/~tomi-yasu/index_e.html)
 
-{{% resource_link "4e242749-e25a-4b5a-878a-888ab3f07b71" "Okinawa Local Cuisine" %}}
+[Okinawa Local Cuisine](http://www.japanupdate.com/?id=6715)
 
-{{% resource_link "f263e8e2-1073-47e4-b79e-0dc56efe8c5c" "Osaka Okonomiyaki" %}}
+[Osaka Okonomiyaki](https://www.japan-guide.com/r/e100.html)
 
-{{% resource_link "5942ad32-0d45-4e7d-8fef-f309395168b8" "Akita" %}}
+[Akita](https://www.japan-guide.com/e/e3625.html)
 
-{{% resource_link "b13f24e6-8476-4180-b0a5-837ee1bbda1f" "Sushi a la Carte" %}}
+[Sushi a la Carte](http://www.sushialacarte.com/)
 
-{{% resource_link "1292abd6-8047-4c4d-a17b-37e4e08c5da2" "SushiLinks" %}}
+[SushiLinks](http://www.sushilinks.com/)
 
-{{% resource_link "88f9be1c-5718-4043-a430-71bc6e72405c" "The Sushi Bar" %}}
+[The Sushi Bar](http://www.thesushibar.com/)
 
-{{% resource_link "f6a7295e-3fa9-4357-8e66-5faeff4c9043" "Minamoto Kitchoan" %}}
+[Minamoto Kitchoan](http://www.kitchoan.com/)
 
-{{% resource_link "783d6863-97d4-4fa3-9532-b85413a930cb" "Maruwa Market" %}}
+[Maruwa Market](http://www.maruwa.com/)
 
-{{% resource_link "9d0c4b40-4ccd-40c9-bcd6-73557cdca242" "Mitsuwa" %}}
+[Mitsuwa](http://www.mitsuwa.com/)
 
-{{% resource_link "bbc61d0a-58c1-43d0-8258-e97acbba1aa8" "Tokyo Food Page: Guide to Japanese Cuisine and Eating in Tokyo" %}}
+[Tokyo Food Page: Guide to Japanese Cuisine and Eating in Tokyo](http://www.bento.com/tokyofood.html)
 
-{{% resource_link "30efffdd-de28-4fde-9931-2af7397537d3" "Tsukiji Market" %}}
+[Tsukiji Market](http://www.tsukiji.or.jp/english/)
 
 Current Events in Japan
 -----------------------
 
-{{% resource_link "2e267dbe-07d6-46e2-af3c-83f971a6ba7f" "Japan Today" %}}
+[Japan Today](http://www.crisscross.com/)
 
-The Daily Yomiuri Online - {{% resource_link "bcf4b5e7-1421-475c-ac40-2f1d9a7143e3" "日本語" %}} {{% resource_link "3c4d4fdb-38c0-4fee-ba7f-7073312e1d9b" "English" %}}
+The Daily Yomiuri Online - [日本語](http://www.yomiuri.co.jp/) [English](http://the-japan-news.com/)
 
-Mainichi Daily News - {{% resource_link "e3ec0a32-893d-49dc-a216-5b9064a54181" "日本語" %}} {{% resource_link "e3ec0a32-893d-49dc-a216-5b9064a54181" "English" %}}
+Mainichi Daily News - [日本語](http://www.mainichi.co.jp/) [English](http://www.mainichi.co.jp/)
 
-{{% resource_link "fe777bcf-5c74-4b6b-8186-b689b13c6a5f" "The Japan Times" %}}
+[The Japan Times](http://www.japantimes.co.jp/)
 
-Asahi News - {{% resource_link "ce16a0a9-62c3-4d59-86d7-67af0e5feb36" "日本語" %}} {{% resource_link "030ac4db-c25d-4937-9388-2e363ed0160b" "English" %}}
+Asahi News - [日本語](http://www.asahi.com/home.html) [English](http://www.asahi.com/english/)
 
-{{% resource_link "6184367e-2645-4214-a209-657a5d4e7110" "Sankei Shimbun" %}}
+[Sankei Shimbun](http://www.sankei.co.jp/)
 
-{{% resource_link "03e66d9d-b47c-493a-9e18-591e819d5bf2" "Fuji News Network" %}}
+[Fuji News Network](http://www.fnn-news.com/)
 
-{{% resource_link "c112f87f-25ad-45ee-8d7b-bc2c1a976ef2" "Ministry of Foreign Affairs" %}}
+[Ministry of Foreign Affairs](http://www.mofa.go.jp/)
 
-{{% resource_link "1026f5b5-a48a-46fe-8f42-8334985dc931" "Kansai Time Out" %}}
+[Kansai Time Out](http://www.kyoto.world-guides.com/kyoto_events.html)
 
-The Okinawa Times - {{% resource_link "9d492e00-2c81-476a-97af-da4bac7f1086" "日本語" %}}
+The Okinawa Times - [日本語](http://www.okinawatimes.co.jp/)
 
-{{% resource_link "ef5e83b2-049e-474e-9a65-d2ff71d0183f" "Fukuoka Kyushu Guide" %}}
+[Fukuoka Kyushu Guide](https://www.japan-kyushu-tourist.com/fukuoka-travel-guide)
 
-{{% resource_link "f3484583-b523-4156-9857-24cbd65bb5a3" "Chunichi Shimbun" %}}
+[Chunichi Shimbun](http://www.chunichi.co.jp/)
 
-{{% resource_link "41d859bf-67be-462c-9d82-a7a2a67dfb38" "Kitanippon Shimbun" %}}
+[Kitanippon Shimbun](http://www.kitanippon.co.jp/)
 
-{{% resource_link "5160a442-846f-40e7-a1f9-3a3ef77a2a91" "Hokkaido Shimbun" %}}
+[Hokkaido Shimbun](http://www.hokkaido-np.co.jp/)
 
-{{% resource_link "2436f6d0-6131-4345-a18c-586dc26df068" "Hokkoku Shimbun" %}}
+[Hokkoku Shimbun](http://www.hokkoku.co.jp/)
 
-Kyoto Shimbun - {{% resource_link "9c0e0a73-55a5-4671-9d3b-18687fcb1a9b" "日本語" %}} {{% resource_link "266d152b-6b7a-4b32-9d08-87cda2d30cbb" "English" %}}
+Kyoto Shimbun - [日本語](http://www.kyoto-np.co.jp/) [English](https://e.kyoto-np.jp/news/)
 
-{{% resource_link "71b1a7b1-bf4e-4fcc-8e2f-cdcb8b522931" "Niigata Nippo News" %}}
+[Niigata Nippo News](http://www.niigata-nippo.co.jp/)
 
-{{% resource_link "3dfae3a4-a907-4f52-81c9-e8d4c09114b7" "Nihonkai Shimbun" %}}
+[Nihonkai Shimbun](http://www.nnn.co.jp/)
 
-{{% resource_link "ab184429-5834-4c83-8623-42fd20d50078" "Osaka News" %}}
+[Osaka News](http://www.sankei-kansai.com/)
 
-{{% resource_link "6184367e-2645-4214-a209-657a5d4e7110" "Sankei Shimbun" %}}
+[Sankei Shimbun](http://www.sankei.co.jp/)
 
-{{% resource_link "d37bca4b-b907-4fa2-95cf-2bbf7503a6d0" "Nara Shimbun" %}}
+[Nara Shimbun](http://www.nara-np.co.jp/)
 
-{{% resource_link "da3b1f13-463c-4f73-b6fa-79eb5af0d927" "Tokyo Shimbun" %}}
+[Tokyo Shimbun](http://www.tokyo-np.co.jp/)
 
-{{% resource_link "fd57d488-5cd2-4784-b86f-3ba21b0df246" "Tokushima Shimbun" %}}
+[Tokushima Shimbun](http://www.topics.or.jp/)
 
-{{% resource_link "7f41ee8f-9d0f-4fdf-95ad-1b11d00ed998" "Toyama Shimbun" %}}
+[Toyama Shimbun](http://www.toyama.hokkoku.co.jp/)
 
 Useful Information for Life in Japan
 ------------------------------------
 
-{{% resource_link "4a8835f0-6002-4210-b5cc-772fca4d4914" "Japanese Railways Guide" %}}
+[Japanese Railways Guide](http://www.japan-guide.com/e/e2019.html)
 
-{{% resource_link "e17706a9-a3db-45a1-8d26-fe8892b85850" "JTB USA: Japan Rail Information" %}}
+[JTB USA: Japan Rail Information](https://online.jtbusa.com/JRpass.aspx/JRPass/JRKyushu.aspx)
 
-{{% resource_link "b5c43769-0016-4733-9901-4722356023b6" "About.com: Life in Japan" %}}
+[About.com: Life in Japan](http://www.japan-guide.com/e/e625.html)
 
-{{% resource_link "c991f7c9-1fea-4f2a-a11b-3b8a657aadd0" "Tokyo Touring Tips" %}}
+[Tokyo Touring Tips](http://www.tctour.co.jp/)
 
-{{% resource_link "5cf5587c-7f38-40c1-9a33-ed2a7847dc1f" "Useful common knowledge!!" %}}
+[Useful common knowledge!!](http://web.archive.org/web/20070207022942/http://english.itp.ne.jp/content/live/index.html)
 
-{{% resource_link "395dc608-466d-4273-83f5-0992d4529dfd" "Japan National Tourist Organization" %}}
+[Japan National Tourist Organization](http://www.jnto.go.jp/eng/)
 
-{{% resource_link "8e71bfb6-29fd-43c2-8886-3cca58b713e9" "English Translations of Japanese Laws" %}}
+[English Translations of Japanese Laws](http://homepage.nifty.com/)
 
-{{% resource_link "6e4e3715-c33f-4ba3-b566-82d73ecb199e" "Postal Codes in Japan" %}}
+[Postal Codes in Japan](https://worldpostalcode.com/japan/)
 
-{{% resource_link "155bc312-f2f5-42f0-917b-c64b6aae4afd" "Tokyo Points of Interest" %}}
+[Tokyo Points of Interest](http://www.metro.tokyo.jp/english/things/index.html)
 
-{{% resource_link "0aff2dae-50bc-4188-8038-8692995ef5cb" "Tokyo Metropolitan Parks Guide" %}}
+[Tokyo Metropolitan Parks Guide](https://www.japan-guide.com/e/e3034.html)
 
-{{% resource_link "83d8c413-21b7-45a7-9d0d-6ad83a2a0ee4" "Ghibli Museum" %}}
+[Ghibli Museum](http://www.ghibli-museum.jp/)
 
-{{% resource_link "918092d0-6da8-490a-ae2f-ac296353d635" "Metropolis JapanToday" %}}
+[Metropolis JapanToday](https://metropolisjapan.com/)
 
-{{% resource_link "fde8463f-1c81-429c-ae1d-9a9cf3aadd66" "Sado Island" %}}
+[Sado Island](http://www.mijintl.com/)
 
-{{% resource_link "554c24da-0dd2-4c00-83a3-c4db064acb98" "Hitch-hiking Tips" %}}
+[Hitch-hiking Tips](http://www.stiffarmingsociety.com/hitchhiking/)
 
-{{% resource_link "daeb7297-5c82-47da-ae32-8b32a59054ba" "Beaches" %}}
+[Beaches](http://metropolis.co.jp/?s=beaches)
 
-{{% resource_link "d84e3b66-3025-4f50-99eb-21a72c6f8c0e" "Ocha Cafes" %}}
+[Ocha Cafes](http://local.yahoo.com/info-46191470-ocha-cafe-thai-japanese-restaurant-blackwood)
 
-{{% resource_link "ae77fdb9-f63e-47ff-bd1d-b9874b09dcb4" "Summer in the City" %}}
+[Summer in the City](http://metropolis.co.jp/arts/book-reviews/the-summer-of-ubume/)
 
 Restaurants and Clubs in Japan
 ------------------------------
 
-{{% resource_link "ed5de9c1-894a-4a95-b926-346bfa71c8bb" "ChefMoz" %}}
+[ChefMoz](http://www.andale.com.au/Related/chef-moz/)
 
-{{% resource_link "207b4f4c-6dc3-4be0-b13d-0a2d28866760" "Gourmet Navigator" %}}
+[Gourmet Navigator](http://gnavi.joy.ne.jp/)
 
-{{% resource_link "de5dc97c-4010-42ea-a635-8e8348d1cb3e" "Club Connection" %}}
+[Club Connection](http://www.nightclub.com/)
 
-{{% resource_link "4cf58762-e3b2-4bc9-ba4d-e290c6bc1b2e" "Google Websearch: Travel and Tourism" %}}
+[Google Websearch: Travel and Tourism](http://google.about.com/od/blogs/ss/Google-Labs-Dropouts-And-Failures_2.htm)
 
-{{% resource_link "9d8a9da2-d433-43a6-a839-0b64b6e57a11" "TokyoQ" %}}
+[TokyoQ](http://tokyoq.com/)
 
-{{% resource_link "bbc61d0a-58c1-43d0-8258-e97acbba1aa8" "Bento.com" %}}
+[Bento.com](http://www.bento.com/tokyofood.html)
 
 Literature
 ----------
 
-{{% resource_link "ff2699e6-8a02-4ea3-87e0-effe3befd7aa" "Classical Japanese.net" %}}
+[Classical Japanese.net](http://classical-japanese.net.w3snoop.com/)
 
-{{% resource_link "61310a95-9b20-45df-9541-cdaa37cce64c" "Classical Japanese Texts" %}}
+[Classical Japanese Texts](http://etext.lib.virginia.edu/japanese/)
 
-{{% resource_link "ae4a1f71-c097-4133-b747-a7567056415e" "The Bible in Japanese" %}}
+[The Bible in Japanese](http://www.kidok.info/BIBLE/cgi/bibleftxt.php)
 
-{{% resource_link "d5c4cf81-f632-41b1-ac9e-351a95b5eb84" "Kinokuniya" %}}
+[Kinokuniya](http://www.kinokuniya.co.jp/)
 
-{{% resource_link "e3626658-5a50-4cdf-a7f7-86b9deee75ab" "Zakka Shop" %}}
+[Zakka Shop](http://www.zakkacorp.com/)
 
-{{% resource_link "b80e0f72-4d25-4af1-8ce2-fa1c4df313bb" "Sasuga" %}}
+[Sasuga](https://www.tofugu.com/japanese/sasuga/)
 
-{{% resource_link "50d71d8b-5a8f-4513-ae04-14b35d36050d" "Amazon.co.jp" %}}
+[Amazon.co.jp](http://www.amazon.co.jp/exec/obidos/tg/browse/-/489986/250-1318187-5788223)
 
 Music
 -----
 
-{{% resource_link "16d5990b-c921-4e0c-88fc-5d697aae6d56" "Shoutcast: Streaming JRadio Stations" %}}
+[Shoutcast: Streaming JRadio Stations](http://www.shoutcast.com/internet-radio)
 
-{{% resource_link "4a9a3e26-ef98-4bf9-8b05-78cbfb7f765a" "Armitage's Streaming JPop, JRock and Anime" %}}
+[Armitage's Streaming JPop, JRock and Anime](http://www.streamfinder.com/streaming-radio/armitages-dimension-jpopjrockanime-30-000-songs-user-requests-live-chat-and-more/40943/#.WHxEkn2HN0Y)
 
-{{% resource_link "9bc5e39d-3b9e-4529-b06f-e155b337b845" "WebRadioList.Com Japanese Music Stations" %}}
+[WebRadioList.Com Japanese Music Stations](http://www.webradiolist.com/)
 
-{{% resource_link "71a424da-a3ea-4f8b-899a-f0327f7ebc98" "Japan-A-Radio" %}}
+[Japan-A-Radio](http://www.japanaradio.com/)
 
-{{% resource_link "d23f276c-da8b-4416-be78-414dd67fd60f" "Megchan's Jpop Pages" %}}
+[Megchan's Jpop Pages](http://www.megchan.com/)
 
-{{% resource_link "72c8c82f-e166-4b48-9f19-3a2626921a3d" "Jpop Lyrics Station" %}}
+[Jpop Lyrics Station](http://www.jpoplyricstation.homestead.com/Lyrics.html)
 
-{{% resource_link "cc00137f-2ad1-4222-937f-3185f6951205" "Lyrics to Select Chemistry/Exile/SOS Songs" %}}
+[Lyrics to Select Chemistry/Exile/SOS Songs](http://exile.hk.st/)
 
 Anime/Manga/Drama
 -----------------
 
-{{% resource_link "fb4e3f8f-3de3-435a-a35d-f9a0669225c5" "MangaScreener.Com" %}}
+[MangaScreener.Com](http://www.mangascreener.com/)
 
-{{% resource_link "ccf76ada-f1bc-4cd2-a321-8bf32bf9a69a" "Snoopy in Japanese!" %}}
+[Snoopy in Japanese!](http://www.snoopy.co.jp/)
 
-{{% resource_link "d300c590-9f30-46e1-ad61-c5fdbdaf169b" "Manga Downloads" %}}
+[Manga Downloads](http://www.mangadownloads.org/)
 
-{{% resource_link "58e5c2c8-4d32-4f3e-8ae6-87be1845a1fe" "AnimeNfo" %}}
+[AnimeNfo](http://web.archive.org/web/20050507020932/http://www.animenfo.com/)
 
-{{% resource_link "3004826c-a573-482a-8278-762992e415f2" "AniPike.Com" %}}
+[AniPike.Com](https://www.tumblr.com/search/Anipike)
 
-{{% resource_link "f77bdcb1-1b28-49b0-be90-d368a97c2a83" "Search for Anime Online" %}}
+[Search for Anime Online](https://www.anime-planet.com/anime/all)
 
-{{% resource_link "bd561719-366b-43e5-9318-8e7e6f2a9824" "Rec.Arts.Anime.Creative: Anime Fanfiction Stories" %}}
+[Rec.Arts.Anime.Creative: Anime Fanfiction Stories](http://groups.google.com/group/rec.arts.anime.creative?hl=en&lr=&ie=UTF-8&oe=UTF-8)
 
-{{% resource_link "f29e4f6c-7d75-44b3-b0a0-d278bf11a6ee" "JDRAMA Database" %}}
+[JDRAMA Database](https://www.nt2099.com/DORAMA/?__cf_chl_jschl_tk__=51c24399f3b5d6ef1c616ddcc9434017a1e47184-1623440361-0-AWkWG6YGhFVy3af1Nh6o9zWVx7TsgLc_yWw3NUcC5IXj-xv9FQ-k1B4r1CIr1325_sR0CNCp3CSdQclfRBzLExT_t4F5PW-Zn-Ac_K-RhIk4M4kitLRUqpQlNd5YQ02bAF2LApbzT9z3NYY4Y_QNE6_RQRtSBN50XqqfZyz_zaDmoPDTWzOwSm3C_qazDXfKAFMrfVMRCbDJMK3exHYW3h3aoXz-FpASKHjlcA2YNvIGDaTM9hWF1jFzoj4LhZ5XhN4QPGErCUqA5qnpTpQOte9EYm0g6yclDmMKS0AjtZPULQ9or72A-khnjUtaEIHwwCQ7t7YQcR19yQKoo1SRKE2TzdBo2u70mFkjdxBl0aZxXUIonrjwgplPUJuteYdM_AsDCkvKCmIloUaB_aq5aeI)
 
 Martial Arts
 ------------
 
-{{% resource_link "80e2760a-906a-4a8d-908a-41854ca2c975" "The Book of Five Rings" %}}
+[The Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt)
 
-{{% resource_link "5a493f7f-c2bd-4ebd-9fa4-be5d80a1748b" "Martial Arts Links" %}}
+[Martial Arts Links](http://www.trulyhuge.com/malinks.htm)
 
-{{% resource_link "331e1027-d474-42cb-a3dd-c6538d83ac56" "Acrobatic Trick Karate Moves" %}}
+[Acrobatic Trick Karate Moves](http://www.neokarate.net/lingo/)
 
-{{% resource_link "d049b69e-b4e0-42eb-856e-6dd4f797adae" "Noble House Kenjutsu Shinkage Ryu" %}}
+[Noble House Kenjutsu Shinkage Ryu](http://www.kenjutsu.ca/)
 
-{{% resource_link "b79db4c2-13b5-4cb9-ab5d-43f20bfd4564" "NPS Cutlery Firm" %}}
+[NPS Cutlery Firm](http://www.n-p-s.net/)
 
 Miscellaneous Links
 -------------------
 
-{{% resource_link "04ff5559-009d-4af2-99ca-2251649705b5" "Google in Japanese" %}}
+[Google in Japanese](http://www.google.co.jp/)
 
-{{% resource_link "8e5b4b3c-1f76-4446-b771-8b640614b8a6" "Yahoo in Japanese" %}}
+[Yahoo in Japanese](http://www.yahoo.co.jp/)
 
-{{% resource_link "a27206cd-fea7-4c7a-88b3-a8a1ce1f17f8" "Weather" %}}
+[Weather](http://www.tenki.jp/)
 
-{{% resource_link "7694bec4-edb6-4c07-bd3a-1f1127ecf4cf" "Amusing MashiMaro Flash Movies" %}}
+[Amusing MashiMaro Flash Movies](http://www.opane.com/opane/)
 
-{{% resource_link "2487db85-ffb9-4463-8dcd-b091d0c7e6a9" "EMedicine.com" %}}
+[EMedicine.com](http://emedicine.com/)
 
-{{% resource_link "7adb3bd1-bdf9-4c48-86ae-dc9623fff6d0" "MayoClinic.com" %}}
+[MayoClinic.com](http://www.mayoclinic.com/)
 
-{{% resource_link "6a2dba69-9e47-4282-99a7-c0b8dc260ab8" "Family Practice Notebook" %}}
+[Family Practice Notebook](http://www.fpnotebook.com/)
 
-{{% resource_link "6d6b4f2f-168c-4bde-b2f3-67a6da18098e" "Bartleby's Medical References" %}}
+[Bartleby's Medical References](http://www.bartleby.com/reference/)
